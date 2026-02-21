@@ -1,0 +1,5 @@
+print('My name is Yusupov Yusufbek and I am 18 yaers old.')
+print('I like reading scientific books mainly releated to Physics.')
+print('For me coding is more interesting than solving Mathematical equation.')
+print('My favorite food is Shurva')
+print('I study Drone Technology major at Al-kwarazmi university')
