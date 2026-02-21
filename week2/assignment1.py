@@ -1,0 +1,5 @@
+print('My name is Yusufbek Yusupov')
+print('I am 18 years old and I live in Beruniy')
+print('My hobby is reading scientific books related to Physics')
+print('At the moment I am writing Python code')
+print('For me typing code is more interesting than solving problems in mathematics')
